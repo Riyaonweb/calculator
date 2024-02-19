@@ -10,3 +10,6 @@ Created Calculator which takes input and gives Mathmatical results.
 -CSS
 -JavaScript
 
+
+##Live Server
+https://riyaonweb.github.io/calculator/
